@@ -23,7 +23,10 @@ module.exports = {
         '100vh': "100vh",
       },
       colors: {
-        
+        first : '#FB842A',
+        second: '#F7F7F7',
+        a: '#F37A0F',
+        b: ''
       }
     },
   },
