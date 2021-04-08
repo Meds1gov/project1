@@ -57,6 +57,10 @@ background: rgb(251, 126, 46); /* Old browsers */
     width: 14%;
 }
 
+.w-1\/7 {
+    width: 12%;
+}
+
 .w-1\/30 {
     width: 32%;
 }
